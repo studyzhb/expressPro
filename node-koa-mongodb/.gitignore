@@ -50,4 +50,8 @@ buck-out/
 
 fastlane/report.xml
 fastlane/Preview.html
+<<<<<<< HEAD
 fastlane/screenshots
+=======
+fastlane/screenshots
+>>>>>>> 30aea1a5c5c7abfb8b7a0f862aed4036719d9489
